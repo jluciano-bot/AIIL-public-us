@@ -1,0 +1,25 @@
+# Dependencies and local tooling
+node_modules/
+
+# Secrets (never commit)
+.env
+.env.*
+*.pem
+*.key
+
+# Logs and temporary files
+*.log
+*.tmp
+_sample-*
+page-*.png
+page-*.yml
+console-*.log
+
+# OS and editor files
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
+
+# Generated documents (node tools/build-docs/build.js --pdf)
+dist/
