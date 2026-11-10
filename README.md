@@ -6,8 +6,6 @@ A management framework to govern, operate and continuously improve AI.
 
 Website: [aiilframework.com](https://aiilframework.com/)
 
-**Status:** draft, version 1.1. This is the US edition, in English. Content specific to US law and regulation does not exist yet. Nothing here is legal advice, and a lawyer has not reviewed it.
-
 ## Contents
 
 | Document | For | What it is |
