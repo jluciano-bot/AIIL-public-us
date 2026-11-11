@@ -44,13 +44,13 @@ To become the leading framework for AI Service Management, AI Governance, and AI
 
 | Process | Purpose |
 |---|---|
-| AI Governance Management | Ensure alignment with policies, strategy, and regulatory requirements |
-| AI Incident Management | Restore normal AI operations after failures or unexpected behavior |
-| AI Problem Management | Identify and eliminate root causes of recurring AI incidents |
-| AI Change Management | Control all modifications to AI systems and services |
-| AI Agent Management | Manage the complete lifecycle of AI agents |
-| AI Risk Management | Identify, evaluate, and treat AI-related risks |
-| AI Knowledge Management | Ensure the right AI knowledge is available to the right people |
+| [AI Governance Management](framework/processes/AIIL-AI-Governance-Management.md) | Ensure alignment with policies, strategy, and regulatory requirements |
+| [AI Incident Management](framework/processes/AIIL-AI-Incident-Management.md) | Restore normal AI operations after failures or unexpected behavior |
+| [AI Problem Management](framework/processes/AIIL-AI-Problem-Management.md) | Identify and eliminate root causes of recurring AI incidents |
+| [AI Change Management](framework/processes/AIIL-AI-Change-Management.md) | Control all modifications to AI systems and services |
+| [AI Agent Management](framework/processes/AIIL-AI-Agent-Management.md) | Manage the complete lifecycle of AI agents |
+| [AI Risk Management](framework/processes/AIIL-AI-Risk-Management.md) | Identify, evaluate, and treat AI-related risks |
+| [AI Knowledge Management](framework/processes/AIIL-AI-Knowledge-Management.md) | Ensure the right AI knowledge is available to the right people |
 
 ## Maturity Model
 
@@ -71,6 +71,7 @@ AIIL defines five levels of organizational AI maturity:
 | [Executive Brief](docs/AIIL-Executive-Brief.md) | Executives, board | The business case for AI governance |
 | [Pillars](framework/AIIL-Pillars.md) | Practitioners | The pillars of the framework |
 | [Maturity Model](framework/AIIL-Maturity-Model.md) | Practitioners | Maturity levels |
+| [Service Lifecycle](framework/AIIL-Service-Lifecycle.md) | Practitioners | The stages of an AI service, from strategy to retirement |
 | [Glossary](framework/AIIL-Glossary.md) | Everyone | Terms used |
 
 ## License
