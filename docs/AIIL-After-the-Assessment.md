@@ -56,7 +56,7 @@ Level bands are the ones used by the Analyzer (8, 15, 22 and 29 points).
 
 Run the assessment again at **about 90 days** and compare with the first one. The Analyzer can compare two results and shows what improved, what got worse and what did not change. After that, reassess every **6 to 12 months**.
 
-Keep the file "Download full result (JSON)" on your own device. Next time, load it with "Load a previous assessment" on the results page to see the progress. You can also load it with "Load a saved copy" on the questions screen to start from your old answers and notes. Use "Save a copy to my device" before leaving a half-finished assessment. The files never leave your browser.
+Keep the file "Download full result (JSON)" on your own device. Next time, load it with "Load a previous assessment" on the results page to see the progress. You can also load it with "Load a saved copy" on the questions screen to start from your old answers and notes. Use "Save a copy to my device" before leaving a half-finished assessment. The files never leave your browser. Each result file also carries the history of your earlier assessments (the first one and the 11 most recent), so the next assessment shows a radar with the first, previous and current results and a chart of the total over time. Always load the newest file. This history is declared by whoever holds the file: it tracks progress and is not a certification.
 
 ## What this page does not do
 
